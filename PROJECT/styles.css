@@ -1,0 +1,34 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+#login {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
+#frm {
+    color:#ffffff;
+    border: solid #db69af 2px;
+    width: 30%;
+    border-radius: 60px;
+    background: #f891d2;
+    padding: 30px;
+    box-shadow: 0 0 10px rgba(239, 145, 193, 0.5);
+    
+}
+
+#btn {
+    color: #d895bf;
+    background: #ffffff;
+    padding: 7px;
+    margin-left: 75%;
+    border-radius: 30px;
+}
